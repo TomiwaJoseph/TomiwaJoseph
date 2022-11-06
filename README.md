@@ -20,7 +20,8 @@ I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to brin
 
 ## 🔧 Technologies & Tools
 
-- Technologies
+Technologies
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
@@ -28,7 +29,8 @@ I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to brin
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 
-- Tools
+Tools
+
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
