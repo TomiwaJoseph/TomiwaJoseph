@@ -7,13 +7,11 @@ Hey there 👋
 
 I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to bringing both the technical and visual aspects of digital products to life. As a web developer, I enjoy bridging the gap between web development and design. My goal always is to build scalable, optimized user-friendly, interactive, accessible, secure, fast, responsive and feature-rich applications.
 
-- 🔭 I’m currently working on **RestUp**
-
 💡 Fun facts:
 
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
-- 🎨 I paint digitally at my leisure time
-- 🏓 ♟ Intermediate Table Tennis and Chess player (ask me to define intermediate 😅😁)
+- 🌱 I’m currently learning learning Node.js and working on **RestUp**.
+- 🎨 I paint digitally at my leisure time.
+- 🏓 ♟ Intermediate Table Tennis and Chess player (ask me to define intermediate 😅😁).
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Engineer, or FullStack Engineer (Intern or Junior level).
 - 📫 You can [view my portfolio](https://tomiwajoseph.vercel.app) and contact me by emailing tomiwajoseph88@gmail.com.
@@ -44,3 +42,5 @@ Tools
 <a href="https://github.com/TomiwaJoseph/TomiwaJoseph">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomiwaJoseph&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+*.* linguist-language=Python
