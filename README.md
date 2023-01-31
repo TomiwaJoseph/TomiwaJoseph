@@ -1,14 +1,5 @@
 [![Tomiwa's GitHub Banner](./assets/GitHubHeader.png)](https://tomiwajoseph.vercel.app)
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/tomiwajoseph10)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/tomiwa-joseph-a2b024203) -->
-
-<div>
-<a href="https://linkedin.com/in/tomiwa-joseph-a2b024203" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomiwajoseph" height="30" width="40" />
-</a>
-</div>
-
 Hey there 👋
 
 I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to bringing both the technical and visual aspects of digital products to life. As a web developer, I enjoy bridging the gap between web development and design. My goal always is to build scalable, optimized user-friendly, interactive, accessible, secure, fast, responsive and feature-rich applications.
@@ -22,7 +13,7 @@ I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to brin
 - 💼 Job interests: Backend Engineer, or FullStack Engineer (Intern, Entry or Junior level).
 - 📫 You can [view my portfolio](https://tomiwajoseph.vercel.app) and contact me by emailing tomiwajoseph88@gmail.com.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 Technologies
 
@@ -44,6 +35,13 @@ Tools
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
-<!-- <a href="https://github.com/tomiwajoseph">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomiwajoseph&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=3" />
-</a> -->
+## Connect with me
+
+<div>
+<a href="https://linkedin.com/in/tomiwa-joseph-a2b024203" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomiwajoseph" height="30" width="40" />
+</a>
+<a href="https://twitter.com/tomiwajoseph10" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="tomiwajoseph" height="30" width="40" />
+</a>
+</div>
