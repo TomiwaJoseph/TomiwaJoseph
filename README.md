@@ -40,11 +40,14 @@ I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to brin
 
 ## Connect with me
 
-<div>
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=plastic&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/tomiwajoseph10)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/tomiwa-joseph-a2b024203)
+
+<!-- <div>
 <a style="margin-right: 10px;" href="https://linkedin.com/in/tomiwa-joseph-a2b024203">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomiwajoseph" height="30" width="30" />
 </a>
 <a href="https://twitter.com/tomiwajoseph10">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="tomiwajoseph" height="30" width="30" />
 </a>
-</div>
+</div> -->
