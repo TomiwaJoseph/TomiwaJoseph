@@ -1,6 +1,6 @@
 [![Tomiwa's GitHub Banner](./assets/GitHubHeader.png)](https://tomiwajoseph.vercel.app)
 
-Hey there 👋
+## Hello there 👋
 
 I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to bringing both the technical and visual aspects of digital products to life. As a web developer, I enjoy bridging the gap between web development and design. My goal always is to build scalable, optimized user-friendly, interactive, accessible, secure, fast, responsive and feature-rich applications.
 
@@ -17,31 +17,36 @@ I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to brin
 
 Technologies
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomiwajoseph" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="tomiwajoseph" height="40" width="40" />
+</div>
+
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3C81C4)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=3C81C4)
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=3C81C4)
+![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=3C81C4)
+![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=3C81C4)
+![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=3C81C4)
 
 Tools
 
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/Tools-Sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=0076B2)
 
 ## Connect with me
 
 <div>
-<a href="https://linkedin.com/in/tomiwa-joseph-a2b024203" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomiwajoseph" height="30" width="40" />
+<a href="https://linkedin.com/in/tomiwa-joseph-a2b024203">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomiwajoseph" height="40" width="40" />
 </a>
-<a href="https://twitter.com/tomiwajoseph10" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="tomiwajoseph" height="30" width="40" />
+<a href="https://twitter.com/tomiwajoseph10">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="tomiwajoseph" height="40" width="40" />
 </a>
 </div>
