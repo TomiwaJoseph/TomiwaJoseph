@@ -1,7 +1,13 @@
 [![Tomiwa's GitHub Banner](./assets/GitHubHeader.png)](https://tomiwajoseph.vercel.app)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/tomiwajoseph10)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/tomiwa-joseph-a2b024203)
+<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/tomiwajoseph10)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/tomiwa-joseph-a2b024203) -->
+
+<div>
+<a href="https://linkedin.com/in/tomiwa-joseph-a2b024203" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomiwajoseph" height="30" width="40" />
+</a>
+</div>
 
 Hey there 👋
 
