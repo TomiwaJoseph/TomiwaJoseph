@@ -15,38 +15,36 @@ I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to brin
 
 ## Technologies & Tools
 
-Technologies
-
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomiwajoseph" height="40" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="tomiwajoseph" height="40" width="40" />
-</div>
+### Technologies
 
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3C81C4)
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=3C81C4)
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=3C81C4)
 ![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=white&color=3C81C4)
+![](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=3C81C4)
+![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=3C81C4)
 ![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=3C81C4)
 ![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=3C81C4)
 
-Tools
+### Tools
 
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=0076B2)
-![](https://img.shields.io/badge/Tools-Sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=0076B2)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=white&color=0076B2)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=0076B2)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=0076B2)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=0076B2)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=0076B2)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/GIT-informational?style=for-the-badge&logo=git&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/Sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/PostgresSql-informational?style=for-the-badge&logo=postgressql&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/Netlify-informational?style=for-the-badge&logo=netlify&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/Railway-informational?style=for-the-badge&logo=railway&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=0076B2)
+![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=0076B2)
 
 ## Connect with me
 
 <div>
-<a href="https://linkedin.com/in/tomiwa-joseph-a2b024203">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomiwajoseph" height="40" width="40" />
+<a style="margin-right: 10px" href="https://linkedin.com/in/tomiwa-joseph-a2b024203">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="tomiwajoseph" height="30" width="30" />
 </a>
 <a href="https://twitter.com/tomiwajoseph10">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="tomiwajoseph" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="tomiwajoseph" height="30" width="30" />
 </a>
 </div>
