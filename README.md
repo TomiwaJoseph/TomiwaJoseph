@@ -40,8 +40,8 @@ I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to brin
 
 ## Connect with me
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=plastic&logo=linkedin&logoColor=white&color=fa5b0f)](https://linkedin.com/in/tomiwa-joseph-a2b024203)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=plastic&logo=twitter&logoColor=white&color=fa5b0f)](https://twitter.com/tomiwajoseph10)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=fa5b0f)](https://linkedin.com/in/tomiwa-joseph-a2b024203)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=fa5b0f)](https://twitter.com/tomiwajoseph10)
 
 <!-- <div>
 <a style="margin-right: 10px;" href="https://linkedin.com/in/tomiwa-joseph-a2b024203">
