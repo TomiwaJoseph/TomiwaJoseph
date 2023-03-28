@@ -6,7 +6,7 @@ I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to brin
 
 💡 Fun facts:
 
-- 🌱 I’m currently learning learning Node.js and working on **RestUp**.
+- 🌱 I’m currently learning Node.js and getting **Interview ready** 😅.
 - 🎨 I paint digitally at my leisure time.
 - 🏓 ♟ Intermediate Table Tennis and Chess player (ask me to define intermediate 😅😁).
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
