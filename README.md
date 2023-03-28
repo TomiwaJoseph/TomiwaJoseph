@@ -6,7 +6,7 @@ I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to brin
 
 💡 Fun facts:
 
-- 🌱 I’m currently learning Node.js and getting **Interview ready** 😅.
+- 🌱 I’m currently learning learning Node.js and working on **RestUp**.
 - 🎨 I paint digitally at my leisure time.
 - 🏓 ♟ Intermediate Table Tennis and Chess player (ask me to define intermediate 😅😁).
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
@@ -30,7 +30,7 @@ I am Tomiwa Joseph, a full stack developer. I am efficient when it comes to brin
 
 ![](https://img.shields.io/badge/GIT-informational?style=for-the-badge&logo=git&logoColor=white&color=3C81C4)
 ![](https://img.shields.io/badge/Sqlite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=3C81C4)
-![](https://img.shields.io/badge/PostgresSql-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=3C81C4)
+![](https://img.shields.io/badge/PostgreSql-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=3C81C4)
 ![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=3C81C4)
 ![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=3C81C4)
 ![](https://img.shields.io/badge/Netlify-informational?style=for-the-badge&logo=netlify&logoColor=white&color=3C81C4)
